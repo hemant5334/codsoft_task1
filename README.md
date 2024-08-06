@@ -1,6 +1,6 @@
 # tasks
 
-A new Flutter project.
+It is the task 1 of CodSoft Internship in which i have created a To-Do app using flutter which can easily run on both platform Android and iOS.
 
 ## Getting Started
 
